@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [juce-audice](https://github.com/namirgarib/juce-audice)
 
-- 🔭 Would appreciate upgrading virtual hardware project [virhwm](https://github.com/namirgarib/virhwm)
+- 🔭 Would appreciate contributions to virtual hardware project [virhwm](https://github.com/namirgarib/virhwm)
 
 - 💬 Ask me about **C++, React, Angular**
 
