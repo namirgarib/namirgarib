@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namirgarib" alt="namirgarib" /></a> </p>
 
-- 🔭 I’m currently working on [juce-audice](https://github.com/namirgarib/juce-audice)
+- 🔭 I’m currently working on [juce-audice](https://github.com/namirgarib/juce-audice) and [md-notebook](https://github.com/namirgarib/md-notebook)
 
 - 🔭 Would appreciate contributions to virtual hardware project [virhwm](https://github.com/namirgarib/virhwm)
 
